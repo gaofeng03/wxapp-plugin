@@ -4,7 +4,7 @@
 	"miniprogramRoot": "./miniprogram",
 	"qcloudRoot": "./server",
 	"pluginRoot": "./plugin",
-	"compileType": "miniprogram",
+	"compileType": "plugin",
 	"setting": {
 		"urlCheck": false,
 		"es6": true,

@@ -10,6 +10,11 @@
     "navigationBarBackgroundColor": "#F6F6F6",
     "navigationBarTitleText": "Wafer Quick Start",
     "navigationBarTextStyle":"black"
+  },
+  "plugins": {
+    "myPlugin": {
+      "version": "dev",
+      "provider": "wx217c16d43990d4e9"
+    }
   }
-
 }
