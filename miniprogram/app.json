@@ -1,11 +1,13 @@
 {
-  "pages": [
-    "pages/index/index"
+  "pages":[
+    "pages/index/index",
+    "pages/addCgi/addCgi"
   ],
-  "plugins": {
-    "myPlugin": {
-      "version": "dev",
-      "provider": "wxdb9bdcc4134f3f5e"
-    }
+  "window":{
+    "backgroundColor":"#F6F6F6",
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "Wafer Quick Start",
+    "navigationBarTextStyle":"black"
   }
 }

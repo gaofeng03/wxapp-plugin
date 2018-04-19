@@ -1,11 +1,18 @@
 {
+	"client": "./miniprogram",
+	"svr": "./server",
 	"miniprogramRoot": "./miniprogram",
+	"qcloudRoot": "./server",
 	"pluginRoot": "./plugin",
 	"compileType": "plugin",
 	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
 		"newFeature": true
 	},
-	"appid": "wxdb9bdcc4134f3f5e",
+	"appid": "wx217c16d43990d4e9",
 	"projectname": "wxPlugin",
 	"condition": {}
 }
